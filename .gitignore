@@ -1,0 +1,48 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.ap_
+*.aab
+
+# Local configuration file
+local.properties
+
+# Android Studio generated files
+.idea/
+*.iml
+.DS_Store
+/out
+captures/
+.externalNativeBuild
+.cxx/
+
+# Android Profiler
+.android/
+
+# Kotlin/Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# IntelliJ
+*.iws
+*.ipr
+*.iml
+.idea/
+
+# Environment variables
+.env
+.env.local
+
+# Database files
+*.db
+*.db-journal
+
+# Media
+media/
+cache/
